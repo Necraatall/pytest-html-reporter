@@ -1,7 +1,7 @@
 repos:
 
 -   repo: https://gitlab.com/pycqa/flake8
-    rev: 3.7.7
+    rev: 3.8.10
     hooks:
     -   id: flake8
         exclude: docs
