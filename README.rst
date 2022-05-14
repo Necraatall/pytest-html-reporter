@@ -111,3 +111,7 @@ Is there a demo available for this gem?
 Yes, you can use this demo as an example, https://github.com/prashanth-sams/pytest-html-reporter::
 
     $ pytest tests/functional/
+
+Results folder
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+/home/milan/Programy/Python/pytest-html-reporter/report/pytest_html_report.html
